@@ -53,7 +53,7 @@
 - 📊 **Database Management**: Efficient storage and retrieval of profiles.
 - 📝 **Logging**: Comprehensive logging system for tracking and debugging.
 
-## To-Do Features 🚧
+## To-Do Features
 
 - 🌐 **Web Interface**: A user-friendly dashboard to manage profiles.
 - 🔔 **Notifications**: Real-time notifications for profile activities.
