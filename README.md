@@ -34,7 +34,7 @@
   - [To-Do Features](#-to-do-features)
 - [Requirements](#4️⃣-requirements)
 - [Usage Examples](#5️⃣-usage-examples)
-- [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
+   - [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
 - [Troubleshooting Tips](#7️⃣-troubleshooting-tips)
 - [Contribution Guidelines](#8️⃣-contribution-guidelines)
 
