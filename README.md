@@ -95,7 +95,6 @@ api.open_profile(profile_id=12345)
 - Check the log files under `logs/` for detailed error information.
 - Ensure the API endpoints in `config.py` are correctly configured.
 
----
 
 ## 8️⃣ Contribution Guidelines
 
