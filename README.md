@@ -31,7 +31,7 @@
 ## Table of Contents
 - [Project Overview](#1️⃣-project-overview)
 - [Features](#2️⃣-features)
-  - [To-Do Features](#-to-do-features)
+  - [ To-Do Features](#to-do-features-)
 - [Requirements](#4️⃣-requirements)
 - [Usage Examples](#5️⃣-usage-examples)
 - [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
@@ -53,7 +53,7 @@
 - 📊 **Database Management**: Efficient storage and retrieval of profiles.
 - 📝 **Logging**: Comprehensive logging system for tracking and debugging.
 
-## To Do Features
+## To-Do Features
 
 - 🌐 **Web Interface**: A user-friendly dashboard to manage profiles.
 - 🔔 **Notifications**: Real-time notifications for profile activities.
