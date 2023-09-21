@@ -31,8 +31,7 @@
 ## Table of Contents
 - [Project Overview](#1️⃣-project-overview)
 - [Features](#2️⃣-features)
-  - [To-Do Features](#🚧-to-do-features)
-- [File Structure](#3️⃣-file-structure)
+  - [To-Do Features](#🚧to-do-features)
 - [Requirements](#4️⃣-requirements)
 - [Usage Examples](#5️⃣-usage-examples)
 - [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
